@@ -1,5 +1,5 @@
 Information Security policy and audit -
-**Slip - 1**
+## slip - 1**
 ### Q 1 Create an information security policy for an organization covering data protection, access control, and incident response.
  The purpose of this Information Security Policy is to protect the organization’s
 information assets by ensuring confidentiality, integrity, and availability, while also
@@ -101,7 +101,7 @@ notifications to authorities and users.
 9. Review and update vendor contracts to ensure third parties comply with GDPR
 obligations.
 10.Conduct regular employee training on GDPR, privacy, and security awareness.
-**Slip - 2**
+## slip - 2**
 ### Q1 Conduct a risk assessment for an organization using ISO/IEC 27005 and create a risk management report.
 Answer:
 ISO/IEC 27005:2018 is an international standard that provides detailed guidelines for
@@ -177,7 +177,7 @@ suspicious activity.
 Non-Compliance with ISO 27001 A.9 – Violations include failure in enforcing least privilege,
 strong authentication, and timely de-provisioning.
 Recommendations – Enforce strong passwords, enable MFA, automate provisioning/deprovisioning, apply least privilege, and conduct regular access reviews.
-**Slip - 3**
+## slip - 3**
 ### Q 1 Design a data classification policy for an organization, focusing on confidentiality, integrity, and availability.
 Answer :
 Data Classification Policy
@@ -269,7 +269,7 @@ adherence.
 Conclusion – The audit revealed partial compliance with data classification standards.
 While restricted data was well-protected, gaps in labeling, monitoring, and employee
 awareness need urgent corrective action.
-**Slip - 4**
+## slip - 4**
 ### Q1 Develop an acceptable use policy (AUP) for an organization, covering internet, email, and mobile device usage.
 Answer -
  Acceptable Use Policy (AUP)
@@ -337,7 +337,7 @@ AI assistants, chatbots, or third-party collaboration platforms.
 escalation to the IT security team.
 10. Regular Review – Ensure the AUP is reviewed annually and updated to match evolving
 threats like ransomware, zero-day attacks, and insider misuse.
-**Slip - 5**
+## slip - 5**
 ### Q1 Create a business continuity plan (BCP) for an organization that includes disaster recovery strategies.
 Answer -
  The purpose of this Business Continuity Plan is to ensure that critical business
@@ -412,7 +412,7 @@ Recommendations
 ● Integrate Incident Response with Disaster Recovery processes.
 ● Update BCP/DR annually and conduct mock drills.
 ● Ensure third-party contracts (SLAs) include DR responsibilities.
-**Slip - 6**
+## slip - 6**
 ### Q1 Write an incident response policy for a company to handle cyber threats like ransomware or data breaches.
 Answer -
  The purpose of this Incident Response Policy is to establish a structured and
@@ -521,7 +521,7 @@ Containment/Eradication/Recovery, Post-Incident Activity.
 ○ Offers practical methods for managing and mitigating cyber threats.
 ○ Widely used in organizations, especially in the U.S., but applicable globally. )
 
-**Slip - 7**
+## slip - 7**
 ### Q1 Create a compliance checklist for an organization to adhere to ISO/IEC 27001 standards.
 Answer -
  1. Define :
@@ -609,7 +609,7 @@ ISO/IEC 27001.
 8. Test data backup and disaster recovery procedures regularly.
 9. Update and review policies at least once a year.
 10.Schedule internal ISMS audits and management reviews regularly.
-**Slip - 8**
+## slip - 8**
 ### Q 1 Develop a privacy policy for an organization that aligns with data protection laws such as CCPA or GDPR.
 Answer -
  The purpose of this Privacy Policy is to inform users, customers, and employees
@@ -701,7 +701,7 @@ regular audits.
 8. Ensure cookie consent banners and tracking opt-in/opt-out options are in place.
 9. Conduct regular employee training on privacy and data protection.
 10.Ensure cross-border data transfers comply with GDPR/CCPA requirements.
-**Slip - 9**
+## slip - 9**
 ### Q1 Write an audit plan to assess the physical and environmental security controls of an organization.
 Answer -
  The purpose of this audit is to evaluate the effectiveness of the organization’s
@@ -795,7 +795,7 @@ access.
 7. Power/Environmental Risks: UPS or backup systems for access controls may
 fail during outages.
 8. Training Gaps: Security staff are not fully trained to handle security breaches.
-**Slip - 10**
+## slip - 10**
 ### Q 1 Create a network security policy for an organization focusing on firewalls, VPNs, and secure communication.
 Answer -
  The purpose of this policy is to define rules and procedures for securing the
@@ -862,7 +862,7 @@ devices.
 ● Conduct regular training on network security policies and best practices.
 ● Include network security responsibilities in employee onboarding
 programs.
-**Slip - 12**
+## slip - 12**
 ### Q1 Write a security awareness training policy for employees in an organization.
 Answer -
 1. purpose
@@ -934,7 +934,7 @@ corrective actions if necessary.
 Engaging Methods:
 ● Use interactive training methods like quizzes, videos, gamification, and
 scenario-based learning to improve retention.
-**Slip - 13**
+## slip - 13**
 ### Q1 Create a cloud security policy for an organization to ensure secure use of cloud services.
 Answer -
 The purpose of this Cloud Security Policy is to ensure the secure use of
@@ -1013,7 +1013,7 @@ enabled.
 8. User Responsibilities:
 ● Some employees are using unauthorized third-party cloud apps (“shadow
 IT”).
-**Slip - 17**
+## slip - 17**
 ### Q1. Create an audit checklist for evaluating an organization’s compliance with PCI DSS (Payment Card Industry Data Security Standard).
 Answer -
  1. Build and Maintain a Secure Network
@@ -1099,7 +1099,7 @@ compliance gap.
 ● The organization has a security policy, but it has not been updated for the
 last two years.
 ● Employee awareness training on PCI DSS is irregular and incomplete.
-**Slip - 18** 
+## slip - 18** 
 ### Q1 Write a policy for securing personally identifiable information (PII) within an organization.
 The purpose of this policy is to ensure the confidentiality, integrity, and
 availability of Personally Identifiable Information (PII) collected, processed, and
@@ -1164,7 +1164,7 @@ demonstrates a reasonable level of data protection maturity, but improvements in
 data minimization, backup security, vendor compliance, and employee training
 are essential to ensure stronger compliance with GDPR, CCPA, and internal
 privacy policies.
-**Slip - 19**
+## slip - 19**
 ### Q1 Create a compliance framework for an organization to align with HIPAA (Health Insurance Portability and Accountability Act).
 Answer -
 This compliance framework ensures that the organization meets HIPAA
@@ -1224,7 +1224,7 @@ consistently. Physical security of server rooms is strong, but portable devices
 (laptops, USBs) are weakly controlled. Overall, the organization is partially
 compliant, but must improve encryption, access reviews, vendor management,
 and staff training to fully align with HIPAA standards.
-**Slip - 20**
+## slip - 20**
 ### Q1 Develop a secure password policy for an organization focusing on password complexity and expiration.
 Answer -
 To ensure strong password security by enforcing complexity requirements
@@ -1310,7 +1310,7 @@ algorithms).
 ● Secure password reset processes with multi-factor authentication.
 ● Conduct regular user training on password security and phishing awareness.
 ● Monitor and prevent password reuse and sharing where possible.
-**Slip - 21**
+## slip - 21**
 ### Q1 Create a log management policy for ensuring proper logging and monitoring of security events.
 Answer -
 The purpose of this policy is to establish requirements for the proper logging,
@@ -1427,7 +1427,7 @@ signatures.
 7 Conduct Regular Audits
 ● Schedule periodic audits of log management practices.
 ● Track and remediate identified gaps promptly.
-**Slip - 23**
+## slip - 23**
 ### Q1 Develop a compliance audit plan for evaluating adherence to the NIST Cybersecurity Framework.
 Answer -
 To assess the organization’s compliance with the NIST Cybersecurity Framework
@@ -1560,7 +1560,7 @@ Recommendations:
 ● Increase frequency and scope of recovery plan testing, including disaster recovery drills.
 ● Establish formal communication plans for recovery activities.
 ● Ensure post-incident reviews lead to documented action plans and follow-up.
-**Slip - 24**
+## slip - 24**
 ### Q1 Create a security audit checklist for evaluating an organization’s adherence to cybersecurity best practices.
 Answer -
 1. Governance and Policy
@@ -1701,4 +1701,5 @@ simulations.
 ● Areas for Improvement:
 ● Establish a regular audit schedule.
 ● Maintain comprehensive compliance documentation
+
 
