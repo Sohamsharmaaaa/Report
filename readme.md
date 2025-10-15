@@ -1,3 +1,13 @@
+## .
+## .
+## .
+## .
+## .
+## .
+## .
+## .
+## ..
+## ..
 ## Slip 1
 
 ## **Q1. Explain how to create a key pair for accessing your EC2 instance. What is the purpose of the key pair, and how does it enhance the security of your instance?**
@@ -1589,3 +1599,4 @@ To restrict all access — including read, write, and list operations — to a s
 * Use this for **sensitive or private data** where access must be restricted at all levels.
 
 ---
+
